@@ -1,0 +1,9 @@
+Tianqis-MacBook-Air:homework-4-documentation-and-style-fangtianqi941128 tianqifang$ pylint hw2.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+Tianqis-MacBook-Air:homework-4-documentation-and-style-fangtianqi941128 tianqifang$ pylint test_dataframe.py 
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
